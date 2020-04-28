@@ -1,0 +1,13 @@
+.login {
+  height: 100vh;
+  display: flex;
+  align-items: stretch;
+
+  .login__panel {
+    background: $half-dark;
+    padding: 40px;
+    display: inline-block;
+    min-width: 500px;
+    box-sizing: border-box;
+  }
+}
